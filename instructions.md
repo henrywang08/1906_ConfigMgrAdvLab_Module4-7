@@ -11,9 +11,11 @@
 ##Scenario
 
 In this exercise you will:
+
 	- make sure that the Compliance Settings feature is enabled
-	- change a few client settings that will speed up the policy refresh
-	- the state messaging cycle.  
+
+	- change a few client settings that will speed up the policy refresh the state messaging cycle.  
+
   
 You will also configure the Powershell execution policy to unrestricted so the powershell script can be executed.
 
