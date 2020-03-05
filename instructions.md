@@ -1946,7 +1946,7 @@ Checking for client connectivity to the Configuration Manager servers should be 
 	  
 	
 	  
-	- Client certificate is Self-signed
+	- Client certificate is PKI
 	  
 	- Assigned management point is NYCCFG.contoso.com
 	  
